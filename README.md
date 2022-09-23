@@ -1,2 +1,12 @@
 # walkthru2
-Sample repo for walkthru 2 of gast.ai course
+
+## Indroduction
+
+This is a sample repo for walkthru 2 of gast.ai course.
+
+This is another paragraph.
+
+Here's a list:
+
+- First
+- Second
